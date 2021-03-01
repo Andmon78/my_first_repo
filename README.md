@@ -1,2 +1,4 @@
 # my_first_repo
-Toto je README - file. Zkouöka funkËnosti.
+Toto je README - file. Zkou≈°ka funkƒçnosti.
+
+Toto bylo zmeneno v GitHubu
